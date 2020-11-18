@@ -14,5 +14,22 @@
       "Project": "Security Hardending",
       "Status": "Completed"
     }
+  ],
+  "SAP_PENDING": [
+    {
+      "Customer": "Sumitomo",
+      "Project": "OSS Backbone",
+      "Status": "Pending"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "CMDB",
+      "Status": "Pending"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "Security Hardending",
+      "Status": "Pending"
+    }
   ]
   }
