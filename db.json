@@ -31,5 +31,66 @@
       "Project": "Security Hardending",
       "Status": "Pending"
     }
+  ],
+  "MONITORING_OPEN": [
+    {
+      "Maskid": "NUN-436-72317",
+      "MyshiftSubject": "Red:0001112961:Abu Dhabi:ASE Backup Status:REP00001 (DBSYSTEM)",
+      "AlertSubject": "ASE Backup Status",
+      "TypeId": "089e0141-33de-1ee6-918a-085d795234a1",
+      "Sopid": "SOP-ASE-1632",
+      "StatusAggrAlert": "OPEN"
+    },
+    {
+      "Maskid": "SVY-112-19748",
+      "MyshiftSubject": "Red:0001112961:Abu Dhabi:ASE Backup Status:REP00001 (DBSYSTEM)",
+      "AlertSubject": "ASE Backup Status",
+      "TypeId": "089e0141-33de-1ee6-918a-085d795234a1",
+      "Sopid": "SOP-ASE-2962",
+      "StatusAggrAlert": "OPEN"
+    },
+    {
+      "Maskid": "VMU-208-65906",
+      "MyshiftSubject": "Red:0001112961:Abu Dhabi:ASE Backup Status:REP00001 (DBSYSTEM)",
+      "AlertSubject": "ASE Backup Status",
+      "TypeId": "089e0141-33de-1ee6-918a-085d795234a1",
+      "Sopid": "SOP-ASE-2962",
+      "StatusAggrAlert": "OPEN"
+    }
+  ],
+  "MONITORING_CLOSED": [
+    {
+      "Maskid": "VGR-417-90639",
+      "MyshiftSubject": "Yellow:0001112961:Abu Dhabi:ASE Backup Status:TP4AND (DBSYSTEM)",
+      "AlertSubject": "ASE Backup Status",
+      "TypeId": "089e0141-33de-1ee6-918a-085d795234a1",
+      "Sopid": "SOP-ASE-2962",
+      "StatusAggrAlert": "CONFIRM"
+    },
+    {
+      "Maskid": "",
+      "MyshiftSubject": "Yellow:0001112961:Abu Dhabi:ASE Expiring Passwords:B21AND30 (DBSYSTEM)",
+      "AlertSubject": "ASE Expiring Passwords",
+      "TypeId": "5cf3fcdd-10c2-1ee8-9191-f8f87bef771c",
+      "Sopid": "SOP-ASE-2257",
+      "StatusAggrAlert": "CONFIRM"
+    },
+    {
+      "Maskid": "XMX-365-37450",
+      "MyshiftSubject": "Red:0001112961:Abu Dhabi:SR: Replication Status:M11PRAND (HANADB)",
+      "AlertSubject": "SR: Replication Status",
+      "TypeId": "089e0141-33de-1ed5-8580-ba5b10b76238",
+      "Sopid": "SOP-HANA-985",
+      "StatusAggrAlert": "CONFIRM"
+    },
+    {
+      "Maskid": "",
+      "MyshiftSubject": "Yellow:0001112961:Abu Dhabi:ASE Expiring Passwords:B21AND30 (DBSYSTEM)",
+      "AlertSubject": "ASE Expiring Passwords",
+      "TypeId": "5cf3fcdd-10c2-1ee8-9191-f8f87bef771c",
+      "Sopid": "SOP-ASE-2257",
+      "StatusAggrAlert": "CONFIRM"
+    }
   ]
+
   }
