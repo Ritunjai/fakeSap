@@ -1,0 +1,18 @@
+{"SAP_COMPLETED": [
+    {
+      "Customer": "Sumitomo",
+      "Project": "OSS Backbone",
+      "Status": "Completed"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "CMDB",
+      "Status": "Completed"
+    },
+    {
+      "Customer": "Sumitomo",
+      "Project": "Security Hardending",
+      "Status": "Completed"
+    }
+  ]
+  }
