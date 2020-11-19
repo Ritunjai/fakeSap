@@ -1,33 +1,33 @@
 {"SAP_COMPLETED": [
     {
-      "Customer": "Sumitomo",
+      "Customer": "ADNOC",
       "Project": "OSS Backbone",
       "Status": "Completed"
     },
     {
-      "Customer": "Sumitomo",
+      "Customer": "ADNOC",
       "Project": "CMDB",
       "Status": "Completed"
     },
     {
-      "Customer": "Sumitomo",
+      "Customer": "ADNOC",
       "Project": "Security Hardending",
       "Status": "Completed"
     }
   ],
   "SAP_PENDING": [
     {
-      "Customer": "Sumitomo",
+      "Customer": "ADNOC",
       "Project": "OSS Backbone",
       "Status": "Pending"
     },
     {
-      "Customer": "Sumitomo",
+      "Customer": "ADNOC",
       "Project": "CMDB",
       "Status": "Pending"
     },
     {
-      "Customer": "Sumitomo",
+      "Customer": "ADNOC",
       "Project": "Security Hardending",
       "Status": "Pending"
     }
