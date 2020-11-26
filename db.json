@@ -1,17 +1,27 @@
 {"SAP_COMPLETED": [
     {
       "Customer": "ADNOC",
-      "Project": "OSS Backbone",
+      "Project": "JAVA role matrix implementation ",
       "Status": "Completed"
     },
     {
       "Customer": "ADNOC",
-      "Project": "CMDB",
+      "Project": "FRUN predictive Analytics",
       "Status": "Completed"
     },
     {
       "Customer": "ADNOC",
-      "Project": "Security Hardending",
+      "Project": "DED Customer SID Update",
+      "Status": "Completed"
+    },
+    {
+      "Customer": "ADNOC",
+      "Project": "HCMT Checks",
+      "Status": "Completed"
+    },
+    {
+      "Customer": "ADNOC",
+      "Project": "HANA DB Encryption Validation",
       "Status": "Completed"
     }
   ],
@@ -19,18 +29,9 @@
     {
       "Customer": "ADNOC",
       "Project": "OSS Backbone",
-      "Status": "Pending"
+      "Status": "OnHold"
     },
-    {
-      "Customer": "ADNOC",
-      "Project": "CMDB",
-      "Status": "Pending"
-    },
-    {
-      "Customer": "ADNOC",
-      "Project": "Security Hardending",
-      "Status": "Pending"
-    }
+   
   ],
   "MONITORING_OPEN": [
     {
